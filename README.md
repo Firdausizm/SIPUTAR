@@ -3,6 +3,5 @@ Ini adalah tugas akhir matakuliah algoritma pemrograman pada semester 2. segala 
 SIPUTAR adalah platform untuk mengelola antrean pasien dan melakuan pencarian riwayat penyakit pasien. fitur utama  SIPUTAR menggunakan algoritma priority queue dan binary search sehngga sangat cocok digunakan dalam ekosistem puskesmas.
 
 tech stack :
-postgree sql
-C++
+postgree sql, C++
 
